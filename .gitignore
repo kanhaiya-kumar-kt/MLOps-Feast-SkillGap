@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+feature_repo/data/
+feature_repo/registry.db
+feature_repo/registry.db*
+feature_repo/online_store.db
+outputs/*.csv
+outputs/*.json
+outputs/*.joblib
