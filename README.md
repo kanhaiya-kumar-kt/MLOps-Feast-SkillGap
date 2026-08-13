@@ -6,8 +6,8 @@
 ## Student Details
 
 - **Name:** Kanhaiya Kumar
-- **Register Number:** `<YOUR_REGISTER_NUMBER>`
-- **Section:** `<YOUR_SECTION>`
+- **Register Number:** `231FA04F40`
+- **Section:** `03`
 
 ## Problem Statement
 
